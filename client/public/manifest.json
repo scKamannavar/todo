@@ -1,0 +1,14 @@
+{
+    "name" : "Plan Your Day",
+    "description" : "Plan your day with this Todo App",
+    "version" : "1.0",
+    "manifest_version": 3,
+    "action" : {
+        "default_title" : "Todo",
+        "default_popup" : "./index.html",
+        "default_icon" : {
+            "16": "todologo.png",
+            "128": "todologo.png"
+        }
+    }
+}
